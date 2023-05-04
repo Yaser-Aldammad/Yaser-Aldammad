@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yaser Aldammad</h1>
 <h3 align="center">A passionate Software engineer with a focus on UX, front-end, back-end and business development</h3>
 
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaser-aldammad&label=Profile%20views&color=0e75b6&style=flat" alt="yaser-aldammad" /> </p>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 I’m currently working on helping businesses to develop **sustainable solutions**
@@ -17,7 +19,7 @@
 - 💬 Ask me about development strategies, and **how business can measure and report their performance**
 
 - 📫 How to reach me **yaser_dammad@hotmail.com**
-
+---
 <h3 align="left">Languages and Tools:</h3>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -68,3 +70,10 @@
 - 🧪 &nbsp;
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha)
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yaser-Aldammad&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yaser-Aldammad&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaser-Aldammad&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
