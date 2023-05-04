@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaser Aldammad</h1>
-<h3 align="center">A passionate Software engineer with a focus on UX, front-end, back-end and bussiness development</h3>
+<h3 align="center">A passionate Software engineer with a focus on UX, front-end, back-end and business development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaser-aldammad&label=Profile%20views&color=0e75b6&style=flat" alt="yaser-aldammad" /> </p>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
