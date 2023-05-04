@@ -54,6 +54,10 @@
   ![JSDoc](https://img.shields.io/badge/-JSDoc-333333?style=flat&logo=JSDoc)
   ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
 
+- 🧪 &nbsp;
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha)
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -67,9 +71,6 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
   
-- 🧪 &nbsp;
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha)
 ---
 # 📊 GitHub Stats:
 ### 🔝 Top Contributed Repo
