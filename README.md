@@ -73,10 +73,7 @@
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha)
 
-
-
 <br/>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yaser-Aldammad&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
