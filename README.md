@@ -72,8 +72,9 @@
   ![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha)
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yaser-Aldammad&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yaser-Aldammad&theme=react&hide_border=false)<br/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Yaser-Aldammad&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=Yaser-Aldammad&theme=react&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yaser-Aldammad&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaser-Aldammad&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 ---
