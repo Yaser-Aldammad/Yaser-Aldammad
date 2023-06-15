@@ -35,12 +35,13 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
   ![REST APIs](https://img.shields.io/badge/-REST%20APIs-333333?style=flat&logo=api)
+  ![KnexJS](https://img.shields.io/badge/-KnexJS-333333?style=flat&logo=knexjs)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![KnexJS](https://img.shields.io/badge/-KnexJS-333333?style=flat&logo=knexjs)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
   ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
   
